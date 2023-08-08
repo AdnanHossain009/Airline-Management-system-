@@ -1,0 +1,117 @@
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 3
+
+All Flights:
+Flight ID: 1001, Flight Number: BA123, Departure City: London, Destination City: New York, Available Seats: 150     
+
+Flight ID: 1002, Flight Number: EK435, Departure City: Dubai, Destination City: Singapore, Available Seats: 200     
+
+Flight ID: 1003, Flight Number: AF223, Departure City: Paris, Destination City: Tokyo, Available Seats: 100
+
+Flight ID: 1004, Flight Number: DL550, Departure City: New York, Destination City: Los Angeles, Available Seats: 180
+
+Flight ID: 1005, Flight Number: LH677, Departure City: Frankfurt, Destination City: Munich, Available Seats: 120    
+
+Flight ID: 1006, Flight Number: QF811, Departure City: Sydney, Destination City: Melbourne, Available Seats: 250       
+
+Flight ID: 1007, Flight Number: AI302, Departure City: Delhi, Destination City: Mumbai, Available Seats: 180
+
+Flight ID: 1008, Flight Number: CX888, Departure City: Hong Kong, Destination City: San Francisco, Available Seats: 220
+
+Flight ID: 1009, Flight Number: SQ231, Departure City: Singapore, Destination City: Bangkok, Available Seats: 200      
+
+Flight ID: 1010, Flight Number: TK197, Departure City: Istanbul, Destination City: Dubai, Available Seats: 160
+
+
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 2
+
+Enter Passenger ID: 123
+Enter Passenger Name: adnan
+Enter Passenger Age: 21
+Passenger added successfully
+
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 4
+
+Enter Passenger ID: 123
+Enter Flight ID: 1010
+Booking successful! Passenger adnan booked Flight ID 1010.
+
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 3
+
+All Flights:
+Flight ID: 1001, Flight Number: BA123, Departure City: London, Destination City: New York, Available Seats: 150
+
+Flight ID: 1002, Flight Number: EK435, Departure City: Dubai, Destination City: Singapore, Available Seats: 200
+
+Flight ID: 1003, Flight Number: AF223, Departure City: Paris, Destination City: Tokyo, Available Seats: 100    
+
+Flight ID: 1004, Flight Number: DL550, Departure City: New York, Destination City: Los Angeles, Available Seats: 180   
+
+Flight ID: 1005, Flight Number: LH677, Departure City: Frankfurt, Destination City: Munich, Available Seats: 120       
+
+Flight ID: 1006, Flight Number: QF811, Departure City: Sydney, Destination City: Melbourne, Available Seats: 250       
+
+Flight ID: 1007, Flight Number: AI302, Departure City: Delhi, Destination City: Mumbai, Available Seats: 180
+
+Flight ID: 1008, Flight Number: CX888, Departure City: Hong Kong, Destination City: San Francisco, Available Seats: 220
+
+Flight ID: 1009, Flight Number: SQ231, Departure City: Singapore, Destination City: Bangkok, Available Seats: 200      
+
+Flight ID: 1010, Flight Number: TK197, Departure City: Istanbul, Destination City: Dubai, Available Seats: 159
+
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 5
+
+Enter Passenger ID: 123
+Enter Booking ID to cancel: 1010
+Booking ID 1010 cancelled successfully for passenger adnan.
+
+Airline Management System Menu:
+1. Add Flight
+2. Add Passenger
+3. Display All Flights
+4. Book Flight
+5. Cancel Booking
+6. Exit
+
+Enter your choice: 6
+
+Exiting the Airline Management System. Goodbye!
